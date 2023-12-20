@@ -4,7 +4,19 @@ table, td, th {
     text-align: center;
 }
 
-.app {
+.tabele {
     display: flex;
     justify-content: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.tabela {
+    float: left;
+}
+
+.app {
+    white-space: nowrap;
 }

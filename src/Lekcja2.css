@@ -1,0 +1,5 @@
+td,th, table {
+    height : 30px;
+    border-left: 0px;
+    max-height: 30px;
+}

@@ -2,9 +2,9 @@ import React from "react";
 import './Naglowek.css'
 
 
-const Naglowek = (props) => (
+const Naglowek = () => (
     <tr>
-        <th>Nr</th>
+        <th className="nrNagl">Nr</th>
         <th>Godz</th>
         <th>Poniedziałek</th>
     </tr>
